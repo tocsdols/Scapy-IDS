@@ -57,6 +57,7 @@ Watch the full project walkthrough and live demonstration here:
 
 
 **Log file terminal output**
+
 Alerts are logged to scan_log.txt for auditing
 
 <img width="689" height="437" alt="Pasted Graphic 6" src="https://github.com/user-attachments/assets/cdce6d42-143f-4629-8611-50355a265205" />
