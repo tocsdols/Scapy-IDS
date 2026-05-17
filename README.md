@@ -48,10 +48,18 @@ Watch the full project walkthrough and live demonstration here:
 ## 📸 Screenshots
 **Real-time network sniffing**
 
+
+ref 1 - Linux terminal
 <img width="1190" height="594" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/948d809b-b52e-4527-ad75-0a098422e59c" />
+
+ref 2 - MacOS terminal
 <img width="583" height="383" alt="Configuration" src="https://github.com/user-attachments/assets/860a608f-d15b-49af-93eb-25af270eed21" />
 
+
+
 **Port scan detection via TCP SYN pattern**
+
+ref 3 
 <img width="655" height="417" alt="Pasted Graphic 5" src="https://github.com/user-attachments/assets/060a6cbb-6b78-49af-93f2-1751d3bbf013" />
 
 
@@ -60,10 +68,15 @@ Watch the full project walkthrough and live demonstration here:
 
 Alerts are logged to scan_log.txt for auditing
 
+ref 4
 <img width="689" height="437" alt="Pasted Graphic 6" src="https://github.com/user-attachments/assets/cdce6d42-143f-4629-8611-50355a265205" />
 
 
 
-Samuel — Aspiring SOC Analyst & Cybersecurity Enthusiast
+
+
+
+
+**Samuel — Aspiring SOC Analyst & Cybersecurity Enthusiast**
 
 
